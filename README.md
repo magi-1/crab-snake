@@ -16,4 +16,5 @@ poetry run maturin develop -r
 # Ubuntu 20.04 + 8 cores
 (python) Executed in 7.10 seconds
 (rust) Executed in 0.04 seconds
+# 17600% speed up!
 ```
