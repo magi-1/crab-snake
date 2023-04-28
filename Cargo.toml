@@ -5,6 +5,7 @@ edition = "2021"
 
 [lib]
 name = "crab"
+path = "crab/lib.rs"
 crate-type = ["cdylib"]
 
 [dependencies]
